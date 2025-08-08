@@ -64,6 +64,22 @@
 
 ---
 
+## 📅 Mi actividad en GitHub
+
+<!-- Gráfico dinámico -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LudmilaRavelli&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad de Ludmila Ravelli" />
+</p>
+
+<!-- Opción Skyline (3D interactivo) -->
+<p align="center">
+  <a href="https://skyline.github.com/LudmilaRavelli">
+    <img src="https://img.shields.io/badge/Mi%20GitHub%20en%203D-ff6ec7?style=for-the-badge" alt="Skyline GitHub" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=100&section=footer"/>
 </p>
