@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavelliLudmila&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavelliLudmila&layout=compact&theme=radical" alt="Top Lenguajes" height="165" />
 </p>
 
 ---
