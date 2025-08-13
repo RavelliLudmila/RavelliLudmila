@@ -50,8 +50,6 @@
 | **Portfolio Creativo** | Inspirado en UI/UX actuales. | React + CSS Animations |
 | **App de Tareas Minimal** | Interfaz limpia y funcional. | React + Context API |
 
-*(Reemplazá con tus proyectos reales cuando estén listos)*
-
 ---
 
 ##  Conectemos
