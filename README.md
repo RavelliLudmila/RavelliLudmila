@@ -34,14 +34,6 @@
 
 ---
 
-##  Estadísticas y logros
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavelliLudmila&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-</p>
-
----
-
 ##  Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
