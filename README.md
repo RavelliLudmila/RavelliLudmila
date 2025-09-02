@@ -12,7 +12,7 @@
 
 ## Acerca de mí  
 
-* **Frontend Developer en formación** con un estilo propio: **fashion, clean, chic**.  
+* **Frontend Developer** con un estilo propio: **fashion, clean, chic**.  
 * Formación en **UTN** + **Henry**.  
 * Me inspiro en el diseño editorial y la moda para crear interfaces con impacto visual.  
 * Busco transformar ideas en **experiencias digitales premium**.  
