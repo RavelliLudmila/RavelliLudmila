@@ -47,7 +47,7 @@
 |-------------|---------------|----------|
 | **PsyMatch** | Plataforma innovadora de salud mental con matching inteligente. | Next.js · React 19 · Tailwind · Mapbox · MercadoPago |
 | **Aura E-commerce** | Tienda deportiva femenina con diseño premium y dark/light mode. | Next.js · React 19 · Context API |
-| **Bonhomia** | Sistema de turnos para salón de uñas con UX cuidada. | React · Node.js · PostgreSQL |
+| **Portfolio JuanjoRamirez** | Portafolio profesional moderno con animaciones y modo oscuro/claro. | Next.js 14 · TypeScript · Tailwind CSS |
 
 ---
 
