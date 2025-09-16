@@ -53,8 +53,9 @@
 
 ## Testimonios  
 
-> *“Constante, curiosa y colaborativa; aporta valor en cualquier entorno.”* — **Francisco D’Alessandro**  
-> *“Profesional talentosa, resolutiva y creativa. Su comunicación enriquece cualquier proyecto.”* — **Mauricio Herrera**  
+> *“Talento y comunicación: inspira y motiva a crecer.”* — **Matías Camba**  
+> *“Profesional de enorme valor: talento y proactividad.”* — **Luis M. Alfonzo Roca**  
+> *“Responsable y clara, con rol natural de líder.”* — **Morena Martín**
 
 ---
 
