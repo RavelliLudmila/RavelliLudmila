@@ -25,7 +25,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,figma,git,github,vscode" />
 </p>
 
-> Dark/Light mode lover · UX Enthusiast · Animations addict
+##
+
+<p align="center">
+  Dark/Light mode lover · UX Enthusiast · Animations addict
+</p>
 
 ---
 
