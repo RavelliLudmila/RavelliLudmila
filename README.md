@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/ravelliludmila"><img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/u/0/?to=lud.ravelli@gmail.com&su=Oportunidad+Laboral&body=Hola+Ludmila,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1uNsZMtGJle5s1oMe3SlLFHrYWCF3Y9CZ/view?usp=sharing"><img src="https://img.shields.io/badge/CV-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
-  <a href="https://www.ludmilaravelli.com/"><img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.ravelliludmila.com/"><img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
